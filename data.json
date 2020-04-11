@@ -1,0 +1,27 @@
+
+{
+  {
+  "name":"prasanna",
+  "id":"1",
+   "city":"hyd"},
+   {
+  "name":"priya",
+  "id":"2",
+   "city":"delhi"},
+   {
+  "name":"john",
+  "id":"3",
+   "city":"mumbai"},
+   {
+  "name":"joe",
+  "id":"4",
+   "city":"kerala"},
+   {
+  "name":"ram",
+  "id":"5",
+   "city":"chennai"},
+   {
+  "name":"raj",
+  "id":"6",
+   "city":"gujarat"}
+   }
