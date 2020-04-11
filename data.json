@@ -1,5 +1,5 @@
 
-{
+{ people:[
   {
   "name":"prasanna",
   "id":"1",
@@ -23,5 +23,5 @@
    {
   "name":"raj",
   "id":"6",
-   "city":"gujarat"}
+   "city":"gujarat"}]
    }
